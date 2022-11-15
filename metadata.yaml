@@ -1,0 +1,31 @@
+_repo: Chicago-and-the-Old-Northwest-A-study-of-the-evolution-of-the-northwestern-frontier-together-__69274
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quaife, Milo Milton
+    alias: Quaife, M. M. (Milo Milton)
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '49227'
+    url: http://www.gutenberg.org/2009/agents/49227
+    wikipedia: https://en.wikipedia.org/wiki/Milo_Quaife
+description: ''
+gutenberg_issued: '2022-10-31'
+identifiers:
+  gutenberg: '69274'
+language: en
+pgterms:marc904: https://archive.org/details/chicagoandoldno01quaigoog
+pgterms:marc905: 20221011180728quaife
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Tom Cosmas compiled from materials generously provided by The Internet
+  Archive and are placed in the Public Domain.
+publication_note: 'United States: The University of Chicago Press,1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Chicago and the Old Northwest: A study of the evolution of the northwestern
+  frontier, together with a history of Fort Dearborn'
+url: http://www.gutenberg.org/ebooks/69274
