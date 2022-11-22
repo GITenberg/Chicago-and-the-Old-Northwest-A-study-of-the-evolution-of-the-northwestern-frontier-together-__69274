@@ -1,5 +1,8 @@
 _repo: Chicago-and-the-Old-Northwest-A-study-of-the-evolution-of-the-northwestern-frontier-together-__69274
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69274-h/images/cover.png
 creator:
   author:
     agent_name: Quaife, Milo Milton
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49227
     wikipedia: https://en.wikipedia.org/wiki/Milo_Quaife
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69274#Chicago-and-the-Old-Northwest-A-study-of-the-evolution-of-the-northwestern-frontier-together-_
 gutenberg_issued: '2022-10-31'
 identifiers:
   gutenberg: '69274'
